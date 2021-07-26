@@ -1,0 +1,21 @@
+body{
+    background-color: #00ffff;
+}
+
+
+h1 {
+    color: #a52a2a;
+}
+
+.NameOfYourChoice{
+ background-color:#525eca;
+ display:flex;
+ justify-content:space-between;
+}
+
+.rickrollTime{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
